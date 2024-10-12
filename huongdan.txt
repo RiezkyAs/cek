@@ -1,0 +1,16 @@
+Dùng điện thoại:
+Cài termux trên CH play
+1. Mở ra chạy các lệnh thiết lập:
+pkg upgrade
+pkg install php
+pkg install unzip
+termux-setup-storage
+2. Cho phép truy cập bộ nhớ xong thì tải tool này về
+cd /sdcard/Download (Đây là đường dẫn đến thư mục tool, đổi cho phù hợp với máy bạn)
+unzip toolvipig.zip
+cd toolvipig  
+3. Cuối cùng là chạy lệnh
+php toolvipig.php
+
+
+Dùng máy tính cài xampp và cmder (Youtube để biết thêm chi tiết)
